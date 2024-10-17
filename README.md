@@ -1,1 +1,1 @@
-# weight-space-learning-iclr2025.github.io
+# weight-space-learning.github.io
