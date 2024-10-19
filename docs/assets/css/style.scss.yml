@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.project-tagline {
+    font-size: 40px; /* This is the font size for the tagline */
+}
