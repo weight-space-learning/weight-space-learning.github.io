@@ -20,7 +20,8 @@ Weight space learning remains a nascent and scattered research area. Our goal is
 This workshop will explore fundamental questions about weight spaces, such as:
 
 - What are the inherent properties of weights, like symmetries and invariances, that affect learning and optimization?
-- How can weights be represented, manipulated, and decoded efficiently for downstream tasks?
+- How can model weights be efficiently represented, processed, and used for downstream tasks?
+- What information can be decoded from model weights?
 - Can we generate model weights for specific applications, such as transfer learning or neural fields?
 - How can we democratize the usage of weight spaces for more efficient research and applications?
 
@@ -35,7 +36,7 @@ We invite submissions in the form of extended abstracts (4-6 pages) or full pape
 - **Weight Synthesis**: Weight sampling, model merging, and generating weights for specific tasks.
 - **Applications**: Computer vision (e.g., NeRFs/INRs), physics modeling, and adversarial robustness.
 
-Accepted contributions will be presented in poster sessions and spotlight talks, with the potential for interdisciplinary exchange.
+Accepted contributions will be presented in poster sessions and spotlight talks.
 
 ## Tentative Schedule
 
