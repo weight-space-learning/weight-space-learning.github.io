@@ -63,13 +63,13 @@ All accepted papers and posters will be available online for remote attendees. T
 
 ## Invited Speakers
 
-We are honored to have several leading experts who will provide keynote presentations. Each speaker brings unique insights into machine learning theory, weight space analysis, and neural network synthesis.
+We are honored to have several leading experts who will provide keynote presentations. Each speaker brings unique insights into machine learning theory, weight space analysis, and neural network synthesis. Full list will be available at a later date.
 
-- **Chelsea Finn** (Stanford University)
+<!--- **Chelsea Finn** (Stanford University)
 - **Michael Mahoney** (UC Berkeley)
 - **Stella Yu** (University of Michigan)
 - **Boris Knyazev** (Samsung SAIT AI Lab)
-- **Naomi Saphra** (Harvard University)
+- **Naomi Saphra** (Harvard University)-->
 
 ## Organizing Committee
 
