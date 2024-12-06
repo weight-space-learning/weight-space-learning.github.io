@@ -1,30 +1,54 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
     <meta charset="UTF-8">
 
-{% seo %}
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="theme-color" content="#0D92F4"> -->
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-name">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <!-- <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> -->
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      <p align="center">
+        <!-- Optional Logo -->
+        <!-- <img src="https://example.com/logo.png" alt="Site Logo" width="300"/> -->
+      </p>
+      <h1 class="project-name">{{ site.title | default: "My Project" }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: "Project Tagline" }}</h2>
+
+      <!-- Buttons linking to sub-pages -->
+      <nav class="subpage-links">
+        <a href="{{ '/index/' | relative_url }}" class="btn">Home</a>
+        <a href="{{ '/cfp/' | relative_url }}" class="btn">Call for Papers</a>
+        <!-- <a href="{{ '/awards/' | relative_url }}" class="btn">Awards</a> -->
+        <!-- <a href="{{ '/keynote-speakers/' | relative_url }}" class="btn">Keynote Speakers</a> -->
+        <!-- <a href="{{ '/panelists/' | relative_url }}" class="btn">Panelists</a> -->
+        <!-- <a href="{{ '/orals/' | relative_url }}" class="btn">Orals</a> -->
+        <!-- <a href="{{ '/posters/' | relative_url }}" class="btn">Posters</a> -->
+        <a href="{{ '/organizers/' | relative_url }}" class="btn">Organizers</a>
+        <!-- <a href="{{ '/sponsors/' | relative_url }}" class="btn">Sponsors</a> -->
+      </nav>
+
+      <!-- Sponsor Logos -->
+       <!-- <div class="sponsors"> 
+        <img src="{{ '/assets/images/sponsors/microsoft.png' | relative_url }}" alt="Microsoft" height="50px"/>
+        <img src="{{ '/assets/images/sponsors/esa.png' | relative_url }}" alt="ESA" height="50px"/>
+        <img src="{{ '/assets/images/sponsors/hyperplan.png' | relative_url }}" alt="Hyperplan" height="50px"/>
+        <img src="{{ '/assets/images/sponsors/grss.png' | relative_url }}" alt="GRSS" height="50px"/>
+        <img src="{{ '/assets/images/sponsors/isprs.png' | relative_url }}" alt="ISPRS" height="50px"/>
+      </div>  -->
     </header>
 
     <main id="content" class="main-content" role="main">

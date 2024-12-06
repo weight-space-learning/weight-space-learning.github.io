@@ -21,7 +21,7 @@
 title: Weight Space Learning Workshop
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  at ICLR 2025
+  Weight Space as New Modality - ICLR Singarpore - April 2025 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
