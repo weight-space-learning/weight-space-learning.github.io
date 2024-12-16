@@ -4,7 +4,15 @@ title: Call for Papers
 permalink: /cfp/
 ---
 
-# Topics and Call for Papers
+# Important Dates
+
+| **Submission**          | TBD |
+| **Paper Submission Deadline**            | Monday, February 3, 2025 (23:59 AoE)|
+| **Author notification** | Wednesday, March 5, 2025 (23:59 AoE)|
+| **Camera-Ready Deadline** | Wednesday, March 26, 2025 (23:59 AoE)|
+| **Workshop Day** | Wednesday, April 27 **or** 28, 2025 |
+
+# Call for Papers
 
 We are interested in contributions that push the boundaries of weight space learning, including both theoretical advancements and novel applications across various domains. We invite contributions from researchers and practitioners that explore the promise of weight space learning. Topics of interest include, but are not limited to:
 
@@ -51,14 +59,6 @@ We invite submissions in the form of extended abstracts (max 4 pages) or full pa
 The full papers present substantiated results that advance the field of weight space learning.
 Accepted contributions will be presented in poster sessions and spotlight talks. 
 
-
-# Important Dates
-- **Paper submission deadline:** February 3, 2025
-- **Final decisions to authors:** March 5, 2025
-- **Camera-Ready Deadline:** March 26, 2025
-- **Workshop Day:** April 27 or 28, 2025
-
-
 # Submission:
 Submissions will be exclusively accepted via the official workshop submission portal on openreview. 
 
@@ -67,5 +67,3 @@ Submissions will be exclusively accepted via the official workshop submission po
 ## Submission instructions
 
 Submissions should follow the ICLR formatting guidelines, see the original [ICLR call for papers](https://iclr.cc/Conferences/2025/CallForPapers) and [latex template](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip). As a note, the reviewers will not be required to review the supplementary materials so make sure that your paper is self-contained. For the extended abstracts please use the same template but limit the submission to 4 pages, exclusive of references and supplementary materials. There will be an option on the submission site to differentiate full papers and extended abstracts.
-
-
