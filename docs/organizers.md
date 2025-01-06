@@ -7,8 +7,8 @@ permalink: /organizers/
 ## Organizing Committee
 
 |:--------------:|:--------------:|:--------------:|
-|<img src="/assets/images/organizers/konstantin_schuerholt.jpg" alt="Konstantin Schuerholt" width="225"/>|<img src="/assets/images/organizers/giorgos_bouritsas.png" alt="Giorgos Bouritsas" width="225"/>|<img src="/assets/images/organizers/eliahu_horwitz.jpg" alt="Eliahu Horwitz" width="225"/>|
-| **[Konstantin Schürholt](https://kschuerholt.github.io/)** <br />University of St. Gallen | **[Giorgos Bouritsas](https://scholar.google.com/citations?user=eNUJDXUAAAAJ&hl=en)** <br />Archimedes AI & Uni Athens | **[Eliahu Horwitz](https://pages.cs.huji.ac.il/eliahu-horwitz/)**  <br /> HUJI |
+|<img src="/assets/images/organizers/konstantin_schuerholt.jpg" alt="Konstantin Schuerholt" width="225"/>|<img src="/assets/images/organizers/giorgos_bouritsas.jpeg" alt="Giorgos Bouritsas" width="225"/>|<img src="/assets/images/organizers/eliahu_horwitz.jpg" alt="Eliahu Horwitz" width="225"/>|
+| **[Konstantin Schürholt](https://kschuerholt.github.io/)** <br />University of St. Gallen | **[Giorgos Bouritsas](http://users.uoa.gr/~gbouritsas/)** <br />Archimedes AI & Uni Athens | **[Eliahu Horwitz](https://pages.cs.huji.ac.il/eliahu-horwitz/)**  <br /> HUJI |
 |<img src="/assets/images/organizers/derek_lim.jpg" alt="Derek Lim" width="225"/>|<img src="/assets/images/organizers/yoav_gelberg.jpg" alt="Yoav Gelberg" width="225"/>|<img src="/assets/images/organizers/bo_zhao.jpg" alt="Bo Zhao" width="225"/>|
 | **[Derek Lim](https://cptq.github.io/)** <br /> MIT & Liquid AI | **[Yoav Gelberg](https://scholar.google.com/citations?user=FMbR_TkAAAAJ&hl=en)**  <br /> University of Oxford |**[Bo Zhao](https://b-zhao.github.io/)** <br /> University of California, San Diego |
 |<img src="/assets/images/organizers/allan_zhou.jpg" alt="Allan Zhou" width="225"/>| <img src="/assets/images/organizers/damian_borth.jpeg" alt="Damian Borth" height="225"/> |<img src="/assets/images/organizers/stefanie_jegelka.jpg" alt="Stefanie Jegelka" width="225"/>|
