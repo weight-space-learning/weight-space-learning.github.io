@@ -6,7 +6,7 @@ permalink: /cfp/
 
 # Important Dates
 
-| **Submission**          | TBD |
+| **Submission**          | [openreview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL) |
 | **Paper Submission Deadline**            | Monday, February 3, 2025 (23:59 AoE)|
 | **Author notification** | Wednesday, March 5, 2025 (23:59 AoE)|
 | **Camera-Ready Deadline** | Wednesday, March 26, 2025 (23:59 AoE)|
