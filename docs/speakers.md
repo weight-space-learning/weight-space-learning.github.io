@@ -6,10 +6,12 @@ layout: default
 
 We are honored to have several leading experts who will provide keynote presentations. Each speaker brings unique insights into machine learning theory, weight space analysis, and neural network synthesis.
 
-- **Michael Mahoney** (UC Berkeley)
 - **Stella Yu** (University of Michigan)
+- **Michael Mahoney** (UC Berkeley)
+- **Ludwig Schmidt** (Stanford University and Anthropic)
 - **Boris Knyazev** (Samsung SAIT AI Lab)
 - **Naomi Saphra** (Harvard University)
+
 
 
 ## Stella X. Yu
@@ -31,6 +33,14 @@ We are honored to have several leading experts who will provide keynote presenta
 | **Affiliation** | [UC Berkeley, ICSI, LBNL, Amazon](https://www.stat.berkeley.edu/~mmahoney/) |
 | **Biography** | Michael W. Mahoney is a professor at the University of California at Berkeley in the Department of Statistics and at the International Computer Science Institute (ICSI).  He is also an Amazon Scholar as well as head of the Machine Learning and Analytics Group at the Lawrence Berkeley National Laboratory.  He works on algorithmic and statistical aspects of modern large-scale data analysis.  Much of his recent research has focused on large-scale machine learning, including randomized matrix algorithms and randomized numerical linear algebra, scientific machine learning, scalable stochastic optimization, geometric network analysis tools for structure extraction in large informatics graphs, scalable implicit regularization methods, computational methods for neural network analysis, physics informed machine learning, and applications in genetics, astronomy, medical imaging, social network analysis, and internet data analysis.  He received his PhD from Yale University with a dissertation in computational statistical mechanics, and he has worked and taught at Yale University in the mathematics department, at Yahoo Research, and at Stanford University in the mathematics department. | 
 
+## Ludwig Schmidt
+
+| <img src="/assets/images/speakers/ludwig_schmidt.jpg" alt="Ludwig Schmidt" height="250px" /> |
+| **Talk Title TBD** |
+| Talk Abstract TBD |
+
+| **Affiliation** | [Stanford University and Anthropic](https://www.linkedin.com/in/ludwig-schmidt-87ba3612/) |
+| **Biography** | Ludwig Schmidt is an assistant professor in computer science at Stanford University and member of technical staff at Anthropic. His research interests revolve around the foundations of machine learning, often with a focus on datasets, evaluation, reliable generalization, and large models. Before joining Stanford University and Anthropic, he was an assistant professor at the University of Washington and a research scientist in the AllenNLP team at AI2 and a member of LAION. Before joining UW, he was a postdoc at UC Berkeley where his mentors were Moritz Hardt and Ben Recht. Ludwig received his PhD from MIT advised by Piotr Indyk. | 
 
 ## Boris Knyazev
 
