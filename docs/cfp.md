@@ -6,7 +6,7 @@ permalink: /cfp/
 
 # Important Dates
 
-| **Submission**          | [openreview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL) |
+| **Submission**          | [OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL) |
 | **Paper Submission Deadline**            | Monday, February 3, 2025 (23:59 AoE)|
 | **Author notification** | Wednesday, March 5, 2025 (23:59 AoE)|
 | **Camera-Ready Deadline** | Wednesday, March 26, 2025 (23:59 AoE)|
@@ -62,7 +62,7 @@ Accepted contributions will be presented in poster sessions and spotlight talks.
 This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short (3–5 pages in ICLR format, exact page length to be determined by each workshop) paper submissions, with an eye towards inclusion; see ​​https://iclr.cc/Conferences/2025/CallForTinyPapers for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on https://iclr.cc/Conferences/2025/ at the beginning of February and close on March 2nd.
 
 # Submission:
-Submissions are exclusively accepted via the [official workshop submission portal on openreview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL). 
+Submissions are exclusively accepted via the [official workshop submission portal on OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL). 
 
 
 ## Submission instructions
