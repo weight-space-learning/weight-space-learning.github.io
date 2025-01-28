@@ -4,7 +4,10 @@ This is the repository for the web page of our ICLR 2025 workshop on
 Weight Space Learning. Please visit [weight-space-learning.github.io/](https://weight-space-learning.github.io/)
 for more information.
 
-# Webpage template 
+If you would like to contact us, please email us at: [weightspacelearning@gmail.com](weightspacelearning@gmail.com)
+
+# Webpage template
+
 The webpage template is courtesy of [NeurIPS 2020 Workshop on Topological Data Analysis and Beyond](https://tda-in-ml.github.io/). 
 It has also been used for the ICLR 2023 Workshop on [Trustworthy and Reliable Large-Scale Machine Learning Models](https://rtml-iclr2023.github.io/).
  
