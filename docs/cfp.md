@@ -7,10 +7,10 @@ permalink: /cfp/
 # Important Dates
 
 | **Submission**          | [OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL) |
-| **Paper Submission Deadline**            | Monday, February 3, 2025 (23:59 AoE)|
+| **Paper Submission Deadline**            | Monday, ~~February 3~~ February 10, 2025 (23:59 AoE)|
 | **Author notification** | Wednesday, March 5, 2025 (23:59 AoE)|
 | **Camera-Ready Deadline** | Wednesday, March 26, 2025 (23:59 AoE)|
-| **Workshop Day** | Wednesday, April 27 **or** 28, 2025 |
+| **Workshop Day** | Sunday, April 27, 2025 |
 
 # Call for Papers
 
