@@ -6,7 +6,8 @@ layout: default
 
 | **Date** | One-day workshop on Sunday April 27th, 2025 |
 | **Location** | The workshop will be held in person in Singapore. Remote access will be made available at a later date. |
-| **Submission** | [OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL) - deadline: February 10, 2025 (23:59 AoE) |
+| **Submission** | ~~[OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/WSL) - deadline: February 10, 2025 (23:59 AoE)~~ |
+| **Accepted papers** | Thanks to our organizing committee, we are can now share the list of [accepted papers](https://weight-space-learning.github.io/papers) |
 
 
 The recent surge in the number of publicly available neural network models—exceeding a million on platforms like Hugging Face—calls for a shift in how we perceive neural network weights. This workshop aims to establish neural network weights as a new data modality, offering immense potential across various fields.
@@ -32,6 +33,3 @@ This workshop will explore fundamental questions about weight spaces, such as:
 - Can weight space learning benefit research in processing and synthesising neural fields, for e.g. scientific applications and 3D vision?
 - How can we democratize the usage of weight spaces, enabling more efficient research progress?
 
-## Accessibility and Modality
-
-All accepted papers and posters will be available online for remote attendees. The talks will be recorded and made available on YouTube. We will also have a dedicated Discord channel for virtual engagement, ensuring that participants, whether in-person or remote, can collaborate and discuss ideas.
