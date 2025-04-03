@@ -9,7 +9,7 @@ All slots are in Singapore Standard Time (GMT+8).
 | Time      | Duration | Session Content                                   |
 | --------- | -------- | ------------------------------------------------- |
 | 9:00 AM   | 30 min   | Introduction and opening remarks                  |
-| 9:30 AM   | 30 min   | Opening Keynote                                   |
+| 9:30 AM   | 30 min   | Invited Talk + Q&A                                |
 | 10:00 AM  | 60 min   | Coffee Break + Poster Session 1                   |
 | 11:00 AM  | 10 min   | Session 1: Graphs and Symmetries                  |
 | 11:15 AM  | 30 min   | Invited Talk + Q&A                                |
