@@ -10,7 +10,6 @@ We are honored to have several leading experts who will provide keynote presenta
 - **Michael Mahoney** (UC Berkeley)
 - **Ludwig Schmidt** (Stanford University and Anthropic)
 - **Boris Knyazev** (Samsung SAIT AI Lab)
-- **Naomi Saphra** (Harvard University)
 
 
 
@@ -50,14 +49,4 @@ We are honored to have several leading experts who will provide keynote presenta
 
 | **Affiliation** | [Samsung - SAIT AI Lab](https://bknyaz.github.io/) |
 | **Biography** | Boris Knyazev is a Research Scientist at Samsung - SAIT AI Lab, Montreal, Canada. He completed his PhD at the Machine Learning Research Group, University of Guelph and Vector Institute under supervision of Graham Taylor in 2022. His research interests lie at the intersection of graph neural networks (GNNs), computer vision and meta-learning. In the past, he interned at Facebook AI Research (FAIR) working with Adriana Romero and Michal Drozdal on parameter prediction for neural networks. He also interned at Mila working with Eugene Belilovsky and Aaron Courville on visual compositional generalization. He also interned at SRI International with Mohamed Amer, where he worked on training GNNs on image superpixels. Before starting his PhD, he worked on unsupervised learning and pretraining of neural networks, face, emotion and facial attributes recognition, and video recognition. |
-
-
-## Naomi Saphra
-
-| <img src="/assets/images/speakers/naomi_saphra.jpg" alt="Naomi Saphra" height="250px" /> |
-| **Talk Title TBD** |
-| Talk Abstract TBD |
-
-| **Affiliation** | [Harvard University](https://nsaphra.net/) |
-| **Biography** | Naomi Saphra is a research fellow at the Kempner Institute at Harvard University. She is interested in NLP training dynamics: how models learn to encode linguistic patterns or other structure and how we can encode useful inductive biases into the training process. Naomi has earned a PhD from the University of Edinburgh on Training Dynamics of Neural Language Models; worked at NYU, Google and Facebook; and attended Johns Hopkins and Carnegie Mellon University. Outside of research, she plays roller derby under the name Gaussian Retribution, perform standup comedy, and shepherd disabled programmers into the world of code dictation. |
 
