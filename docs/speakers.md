@@ -6,11 +6,6 @@ layout: default
 
 We are honored to have several leading experts who will provide keynote presentations. Each speaker brings unique insights into machine learning theory, weight space analysis, and neural network synthesis.
 
-- **Stella Yu** (University of Michigan)
-- **Michael Mahoney** (UC Berkeley)
-- **Ludwig Schmidt** (Stanford University and Anthropic)
-- **Boris Knyazev** (Samsung SAIT AI Lab)
-
 
 
 ## Stella X. Yu
