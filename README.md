@@ -6,13 +6,13 @@ for more information.
 
 If you would like to contact us, please email us at: [weightspacelearning@gmail.com](weightspacelearning@gmail.com)
 
-# What is Weight Space Learning (WSL):
+# What is Weight Space Learning (WSL)
 
 If you want to know more about Weight Space Learning, have a look at this survey paper:
 
-A Survey of Weight Space Learning: Understanding, Representation, and Generation
-Xiaolong Han, Zehong Wang, Bo Zhao, Binchi Zhang, Jundong Li, Damian Borth, Rose Yu, Haggai Maron, Yanfang Ye, Lu Yin, Ferrante Neri
-[Arxiv Paper](https://arxiv.org/pdf/2603.10090), 2026
+**A Survey of Weight Space Learning: Understanding, Representation, and Generation**
+X. Han, Z. Wang, B. Zhao, B. Zhang, J. Li, D. Borth, R. Yu, H. Maron, Y. Ye, L. Yin, F. Neri
+[Arxiv PDF](https://arxiv.org/pdf/2603.10090), 2026
 
 # Webpage template
 
