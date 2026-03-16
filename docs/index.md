@@ -11,7 +11,7 @@ layout: default
 | **Room** | Topaz 220-225 |
 
 
-The recent surge in the number of publicly available neural network models—exceeding a million on platforms like Hugging Face—calls for a shift in how we perceive neural network weights. This workshop aims to establish neural network weights as a new data modality, offering immense potential across various fields.
+The recent surge in the number of publicly available neural network models—exceeding a million on platforms like Hugging Face—calls for a shift in how we perceive neural network weights. This workshop aims to establish neural network weights as a new data modality, offering immense potential across various fields. For more details please refer to [A Survey of Weight Space Learning: Understanding, Representation, and Generation](https://arxiv.org/pdf/2603.10090), 2026.
 
 We plan to address key dimensions of **weight space learning:**
 
