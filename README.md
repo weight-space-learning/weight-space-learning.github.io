@@ -6,6 +6,14 @@ for more information.
 
 If you would like to contact us, please email us at: [weightspacelearning@gmail.com](weightspacelearning@gmail.com)
 
+# What is Weight Space Learning (WSL):
+
+If you want to know more about Weight Space Learning, have a look at this survey paper:
+
+A Survey of Weight Space Learning: Understanding, Representation, and Generation
+Xiaolong Han, Zehong Wang, Bo Zhao, Binchi Zhang, Jundong Li, Damian Borth, Rose Yu, Haggai Maron, Yanfang Ye, Lu Yin, Ferrante Neri
+[Arxiv Paper](https://arxiv.org/pdf/2603.10090), 2026
+
 # Webpage template
 
 The webpage template is courtesy of [NeurIPS 2020 Workshop on Topological Data Analysis and Beyond](https://tda-in-ml.github.io/). 
