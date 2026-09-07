@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**The second edition of this workshop will be held at NeurIPS 2026: [https://artifactsasdata.org](https://artifactsasdata.org).**
+
 # Overview
 
 | **Date** | One-day workshop on Sunday April 27th, 2025 |
